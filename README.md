@@ -7,7 +7,7 @@
 - El script de la base de datos está en la carpeta config, dentro de 'web'.
 - La carpeta 'img_prueba' ofrece imágenes de prueba para usar en la web, tanto de perfil como para usar en los posts.
 
-Usuarios registrados para iniciar sesión:
+### Usuarios registrados para iniciar sesión:
 
 cat@gmail.com
 123
