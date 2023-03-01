@@ -148,7 +148,7 @@ else {
 
   <?php if ($login == false) { // Si usuario no login ?>
     <div class="container container-custom">
-      <div class="p-5 mb-4 bg-light rounded-3 hero-cover" style="background-image:url('imgprueba/img12.jpg');">
+      <div class="p-5 mb-4 bg-light rounded-3 hero-cover" style="background-image:url('img/blue2.jpg');">
         <div class="container-fluid py-5 hero-index hero-publicar">
         <h1 class="text-rare-2"><a href="login.php"><span>Inicia sesión</span></a><br> para administrar tus publicaciones</h1>
         <a class="btn btn-outline-secondary btn-outline-white" href="blog.php">Ir al blog</a>
