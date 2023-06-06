@@ -2,7 +2,8 @@
 
 ### Descripción
 
-Proyecto en el que se usa PHP, HTML, CSS, JavaScript y PostgreSQL.
+Tecnologías usadas en este proyecto: PHP, HTML5, CSS3, JavaScript y PostgreSQL.
+Uso de procedimientos almacenados y consultas paramétricas.
 
 ### Intrucciones
 
