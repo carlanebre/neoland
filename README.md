@@ -1,5 +1,9 @@
 # neoland
 
+### Descripción
+
+Proyecto en el que se usa PHP, HTML, CSS, JavaScript y PostgreSQL.
+
 ### Intrucciones
 
 - La base de datos Postgres exportada se encuentra en la carpeta 'Database', en formato Plain y en formato Custom, por si diera error por incompatibilidad de versión.
