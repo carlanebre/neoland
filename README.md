@@ -2,7 +2,12 @@
 
 ### Descripción
 
+- Neoland en una aplicación web colaborativa en la que los usuarios pueden crear una cuenta, loguearse y publicar posts para compartir con la comunidad.
+- Los usuarios pueden modificar la información de sus perfiles y administrar sus publicaciones.
+- El proyecto es un CRUD, permite realizar cuatro operaciones básicas en una base de datos (CREATE, READ, UPDATE, DELETE).
+
 Tecnologías usadas en este proyecto: PHP, HTML5, CSS3, JavaScript y PostgreSQL.
+
 Uso de procedimientos almacenados y consultas paramétricas.
 
 ### Intrucciones
